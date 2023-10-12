@@ -65,7 +65,8 @@ while i >= 2:
   
 
 
-![image](https://github.com/EmpanadasCONGuaro/sobreviviendo_a_la_progrmacion_5/assets/142174506/dcf3d087-fdfc-4802-aa25-bfdee6f63ab9)
+![image](https://github.com/EmpanadasCONGuaro/sobreviviendo_a_la_progrmacion_5/assets/142174506/2c30d611-aa32-4938-95b7-801a17f8f76e)
+
 
 
 
