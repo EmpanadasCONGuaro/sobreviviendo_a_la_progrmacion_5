@@ -158,7 +158,13 @@ if 50 >= x >= 2:
 ```
 
 
-# 8. 
+# 8. Implementar el algoritmo que muestre los números primos del 1 al 100. Nota: use funciones
+
+```pseudocode
+
+```
+
+
 
 
 
