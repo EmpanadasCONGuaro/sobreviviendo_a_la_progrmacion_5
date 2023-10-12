@@ -11,18 +11,6 @@
 
   
 
-```pseudocode
-  flowchart TD
-    A[Inicio]--> B
-    B[x =0] --> D
-    D --> |no| E[fin]
-    D{mientras x <= 100} 
-    D --> |si| F[funcion x**2]
-    F --> G[imprime x ,  x**2]
-    G --> H[suma 1 al valor de x] --> D
-```
-
-
 
 # 2. Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
 
@@ -47,6 +35,12 @@ while i <= 1000:
     
 
 ```
+
+- DIAGRAMA DE FLUJO 2
+  
+
+![image](https://github.com/EmpanadasCONGuaro/sobreviviendo_a_la_progrmacion_5/assets/142174506/62061f60-1c05-424a-9c55-e42e08b37eeb)
+
 
 
 
