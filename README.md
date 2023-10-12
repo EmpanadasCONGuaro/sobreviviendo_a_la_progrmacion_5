@@ -3,6 +3,15 @@
 # 1. Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
 
+```pseudocode
+x: int =0
+while (x <=100):
+    ElCuadrado= x**2
+    print(x, ElCuadrado, sep = " , ")
+    x +=1
+```
+
+
 
 - DIAGRAMA DE FLUJO  PUNTO 1
 
