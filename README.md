@@ -15,6 +15,7 @@ while (x <=100):
 
 - DIAGRAMA DE FLUJO  PUNTO 1
 
+```pseudocode
   flowchart TD
     A[Inicio]--> B
     B[x =0] --> D
@@ -23,6 +24,7 @@ while (x <=100):
     D --> |si| F[funcion x**2]
     F --> G[imprime x ,  x**2]
     G --> H[suma 1 al valor de x] --> D
+```
 
 
 
