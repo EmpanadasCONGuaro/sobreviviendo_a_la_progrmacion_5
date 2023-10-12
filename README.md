@@ -13,6 +13,19 @@ while (x <=100):
 ```
 
 
+- DIAGRAMA DE FLUJO  PUNTO 1
+
+  flowchart TD
+    A[Inicio]--> B
+    B[x =0] --> D
+    D --> |no| E[fin]
+    D{mientras x <= 100} 
+    D --> |si| F[funcion x**2]
+    F --> G[imprime x ,  x**2]
+    G --> H[suma 1 al valor de x] --> D
+
+
+
 # 2. Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
 
 
